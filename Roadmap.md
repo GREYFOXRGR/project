@@ -68,7 +68,7 @@ With a solid foundation with the library and element product lines, we're lookin
 
 ### Operations
 
-As the Polymer project grows we're working on building out our own tool support to support greater productivity within the team and community.
+As the Polymer project grows we're working on building out our own tool support to enable greater productivity within the team and community.
 
 * Have consistent labels across all repos
 * Institute clear requirements for filing issues - asking for a repro or test codebase

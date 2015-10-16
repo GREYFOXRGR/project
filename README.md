@@ -1,6 +1,6 @@
 # Polymer Project
 
-Welcome to the Polymer project repo.
+Welcome to the Polymer project repo. This is the meta-repo for all things Polymer project - the core team's roadmap, the community code of conduct, and the contributing guide.
 
 ## Table of Contents
 

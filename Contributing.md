@@ -10,7 +10,7 @@ Beyond Github, we try to have a variety of different lines of communication open
 
 * [Blog](https://blog.polymer-project.org/)
 * [Twitter](https://twitter.com/polymer)
-* [Google+ Community](https://plus.sandbox.google.com/u/0/communities/115626364525706131031?cfem=1)
+* [Google+ Community](https://plus.google.com/communities/115626364525706131031)
 * [Mailing list](https://groups.google.com/forum/#!forum/polymer-dev)
 * [Slack channel](https://bit.ly/polymerslack)
 

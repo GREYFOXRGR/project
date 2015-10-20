@@ -48,7 +48,9 @@ We keep element roadmaps on each element product line's meta-repo:
 
 ### Application Rails
 
-The Polymer library is specifically focused on making it easy to create encapsulated elements. But the project overall wants to help with much more than that - to make it easy for anyone to build high-quality experiences on the web.
+The Polymer library is specifically focused on making it easy to create encapsulated elements. This has always been and will continue to be the scope of the library itself.
+
+But the project overall wants to help with much more than that - to make it easy for anyone to build high-quality experiences on the web. We do this by providing elements built using the library as well as tools to make development and productionization easier.
 
 With a solid foundation with the library and element product lines, we're looking to move up the stack and provide better guidance around how to build entire applications out of elements, without the need for a single overarching "framework." Instead, we're looking to provide app-structure features in the form of elements, so you can use exactly what you need to build applications in an ergonomic and idiomatic way. These elements are tentatively named the `Carbon` elements.
 
@@ -57,6 +59,8 @@ With a solid foundation with the library and element product lines, we're lookin
 * Explore a l10n solution for translating strings.
 * Explore RTL support for all elements.
 * Prototype a set of layout elements that make structuring responsive applications more straightforward.
+
+It is important to note that these are not additions to the core Polymer library - the scope of the library itself will be unchanged. We'll enable these with new elements built with the library, that you only use if you'd like to.
 
 ### Tooling
 
